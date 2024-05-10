@@ -76,8 +76,8 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Client:
 ```
-Thanjiyappan k
-212222240108
+RAHUL B
+212222220032
 
 import socket
 s=socket.socket()
